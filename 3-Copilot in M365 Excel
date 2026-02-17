@@ -1,0 +1,122 @@
+# Microsoft Copilot with M365 Excel – Executive Use Case
+
+Audience: Business Leaders (CXOs, VPs, Directors)  
+Level: Intermediate to Advanced  
+Use Case Focus: Performance, profitability, and decision-making  
+Tool: Microsoft Copilot in Microsoft Excel
+
+---
+
+## Use Case  
+### Executive Performance & Profitability Review Using Copilot in Microsoft Excel
+
+### Why This Matters for Business Leaders
+Business leaders often face challenges with Excel:
+- Data exists, but insights are slow
+- Analysis depends heavily on analysts
+- Business questions change faster than dashboards
+
+Copilot in Excel enables leaders to:
+- Ask business questions in natural language
+- Instantly surface patterns, risks, and trade-offs
+- Focus on decisions, not formulas
+
+---
+
+## Excel Workbook to Create
+
+**Workbook name:**  
+Quarterly_Business_Performance.xlsx
+
+**Worksheet name:**  
+Q4_Performance
+
+---
+
+## Data to Enter into Microsoft Excel (Training Data)
+
+Paste the following table into Excel starting at cell A1:
+
+| Business Unit | Region        | Revenue ($M) | Cost ($M) | Gross Margin (%) | YoY Growth (%) | Customer Satisfaction |
+|--------------|---------------|--------------|-----------|------------------|---------------|----------------------|
+| Sales        | North America | 48           | 32        | 33               | 5             | 72                   |
+| Sales        | Europe        | 26           | 19        | 27               | 3             | 68                   |
+| Sales        | APAC          | 18           | 15        | 17               | 9             | 70                   |
+| Services     | North America | 22           | 14        | 36               | 4             | 78                   |
+| Services     | Europe        | 14           | 10        | 29               | 2             | 74                   |
+| Services     | APAC          | 10           | 8         | 20               | 6             | 76                   |
+| R&D          | Global        | 8            | 14        | -75              | N/A           | N/A                  |
+| Marketing    | Global        | 6            | 9         | -50              | N/A           | N/A                  |
+
+### Leadership Context
+- Company revenue growth target: 8% YoY
+- Margin pressure from expansion and cost inflation
+- Board expects clarity on where to invest vs optimize
+
+---
+
+## 10 High-Impact Copilot Prompts for Microsoft Excel
+
+### 1. Executive Overview
+**Prompt**  
+Summarize overall business performance and highlight areas that require executive attention.
+
+---
+
+### 2. Margin Risk Identification
+**Prompt**  
+Identify which business units and regions pose the highest margin risk and explain why.
+
+---
+
+### 3. Growth vs Profit Trade-Off
+**Prompt**  
+Compare YoY growth against gross margin and identify where growth is coming at the expense of profitability.
+
+---
+
+### 4. Regional Performance Comparison
+**Prompt**  
+Compare North America, Europe, and APAC across revenue, margin, and customer satisfaction. Highlight strategic implications.
+
+---
+
+### 5. Investment Priority Analysis
+**Prompt**  
+Based on the data, where should leadership increase investment and where should costs be optimized?
+
+---
+
+### 6. Cost Structure Insight
+**Prompt**  
+Analyze cost patterns and identify which functions have structurally high costs relative to revenue contribution.
+
+---
+
+### 7. Customer Signal Correlation
+**Prompt**  
+Analyze whether customer satisfaction appears to correlate with revenue growth or margin performance.
+
+---
+
+### 8. Scenario Simulation
+**Prompt**  
+Simulate the impact on overall margin if APAC Sales margin improves by 5 percentage points.
+
+---
+
+### 9. Board-Level Insight Generation
+**Prompt**  
+Generate three board-level insights from this data, focusing on risk, opportunity, and strategic trade-offs.
+
+---
+
+### 10. Executive Recommendation
+**Prompt**  
+Based on this analysis, draft a concise executive recommendation outlining priorities for the next quarter.
+
+---
+
+## Key Message for Leaders
+Copilot in Excel is not about learning formulas.  
+It is about asking better business questions and getting faster, decision-ready answers.
